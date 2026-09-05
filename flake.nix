@@ -1,6 +1,6 @@
 {
   inputs = {
-    trakt.url = "github:rocq-trakt/trakt";
+    trakt.url = "github:lafeychine/trakt";
 
     nixpkgs.follows = "trakt/nixpkgs";
     flake-parts.follows = "trakt/flake-parts";
